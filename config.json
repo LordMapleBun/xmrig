@@ -64,8 +64,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "xmr.2miners.com:2222",
+            "user": "4ACBMLTqfYDCj6MUnetMxxfW5dNGph6SdFACBjEoPf7ETbrZUi5GkvBh34FU22tqQg6ZkS8WF4kpuhmyCn2pQqxRSy2RyAT",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
